@@ -1,7 +1,8 @@
 # This is a Python C++ extension that uses the Python C/C++ API
 
+Here, I am using Python 3.6 on Mac OS X
 
-1. First create a virtualenv 
+1. First create a virtualenv if you don't want to modify the global python
 
         virtualenv . -p python3
         source bin/activate
