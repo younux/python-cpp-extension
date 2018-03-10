@@ -20,6 +20,6 @@
 
 ## Notes :
 
-The CmakeLists.txt is present to help the IDE to locate Python.h header to help with autocompletion,
-otherwise it is not used for compiling. The file main.cpp was generated
-by cpp IDE and it is not used.
+The CmakeLists.txt is present to help the IDE locate Python.h header to help with autocompletion,
+otherwise it is not used for compiling.
+
