@@ -1,0 +1,8 @@
+build/
+CmakeLists.txt.user
+bin/
+include/
+lib/
+.Python
+pip-selfcheck.json
+
