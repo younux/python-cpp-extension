@@ -1,4 +1,4 @@
-# This a Python C++ extensions that uses the Python C/Cpp API
+# This is a Python C++ extension that uses the Python C/C++ API
 
 
 1. First create a virtualenv 
