@@ -3,8 +3,8 @@
 
 1. First create a virtualenv 
 
-    virtualenv . -p python3
-    source bin/activate
+        virtualenv . -p python3
+        source bin/activate
     
 
 1. To build and install the extension to your python (in virtualenv in our case)  : 
