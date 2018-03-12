@@ -9,6 +9,7 @@
 
 1. First you need to build the module using cmake : 
         
+        mkdir build
         cd build
         cmake ..
         make
@@ -18,7 +19,7 @@ in "build/src", its name in my example is "transaction.cpython-36m-darwin.so",
 this is a shared library (pyd on windows).
 
 1. Now we need to add this module to our python (install it) so as we can use it.
-Go to test-module-in-python subfolder to see an example that uses a python 
+Go to "test-module-in-python" subfolder to see an example that uses a python 
 virtualenv to not affect the global python installation.
 
 
